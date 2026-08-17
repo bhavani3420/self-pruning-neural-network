@@ -1,8 +1,3 @@
-Absolutely. Based on your **actual `self_pruning.py` implementation and the final results you obtained**, use the following as your `README.md`.
-
-It avoids claiming exact-zero pruning, avoids overstating accuracy, and clearly explains that the reported sparsity is **threshold-based** (`gate < 0.01`).
-
-````markdown
 # Self-Pruning Neural Network
 
 A feed-forward neural network for CIFAR-10 classification with **learnable,
